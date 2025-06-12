@@ -26,7 +26,7 @@ This project was created to:
 - Local Storage API
 ## 🖼️ Screenshot
 
-![App Screenshot](screenshot.jpg)
+![App Screenshot](screenshot.g)
 
 ##  How to Use
 
